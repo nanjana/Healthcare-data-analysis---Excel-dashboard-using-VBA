@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is an **Excel-based interactive dashboard** for healthcare data analysis, developed using **VBA (Visual Basic for Applications)**. The project automates the creation of multiple pivot tables and dynamically generates charts to offer insights into healthcare data. The dashboard enables users to analyze various metrics such as patient demographics, hospital admissions, billing data, and test results.
+This project is an **Excel-based interactive dashboard** for healthcare data analysis, developed using **VBA (Visual Basic for Applications)**. The project automates the creation of multiple pivot tables and dynamically generates charts to offer insights into healthcare data. The dashboard enables users to analyze metrics such as patient demographics, hospital admissions, billing data, and test results.
 
 The dataset for this project was collected from **Kaggle**, a platform offering diverse datasets for data science and machine learning projects. This project demonstrates how Excel and VBA can be used effectively for advanced data analysis and visualization.
 
@@ -24,9 +24,9 @@ Here’s a preview of the Excel VBA healthcare dashboard:
 ## Dataset
 
 - **Source**: The healthcare dataset used in this project was collected from [Kaggle](https://www.kaggle.com/). Kaggle is a platform that provides datasets for machine learning and data analysis.
-- **Dataset Description**: The dataset contains information on patient demographics, hospital admissions, billing, test results, and more. Each record corresponds to a healthcare interaction and includes details such as the patient's age, gender, medical condition, hospital of admission, billing amount, and test outcomes.
+- **Dataset Description**: The dataset contains information on patient demographics, hospital admissions, billing, test results, and more. Each record corresponds to a healthcare interaction and includes details such as the patient's age, gender, medical condition, hospital admission, billing amount, and test outcomes.
 
-### Fields from the Dataset:
+### Key Fields from the Dataset:
 - **Name**: Patient name (anonymized).
 - **Age**: Patient's age in years.
 - **Gender**: Gender of the patient.
@@ -48,7 +48,7 @@ Excel-VBA-Healthcare-Dashboard/
 │   ├── CreatePivotTables.bas   # VBA code for creating pivot tables
 │   ├── CreateCharts.bas        # VBA code for generating charts
 │   └── RefreshAll.bas          # VBA code to refresh pivot tables and charts
-
+```
 ## Acknowledgements
 Kaggle: Special thanks to Kaggle for providing the dataset used in this project.
 Microsoft Excel: This project heavily relies on the functionalities provided by Excel's VBA.
