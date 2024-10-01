@@ -49,3 +49,6 @@ Excel-VBA-Healthcare-Dashboard/
 │   ├── CreateCharts.bas        # VBA code for generating charts
 │   └── RefreshAll.bas          # VBA code to refresh pivot tables and charts
 
+## Acknowledgements
+Kaggle: Special thanks to Kaggle for providing the dataset used in this project.
+Microsoft Excel: This project heavily relies on the functionalities provided by Excel's VBA.
