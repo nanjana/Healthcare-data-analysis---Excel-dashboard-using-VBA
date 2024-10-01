@@ -7,6 +7,12 @@ This project is an **Excel-based interactive dashboard** for healthcare data ana
 
 The dataset for this project was collected from **Kaggle**, a platform offering diverse datasets for data science and machine learning projects. This project demonstrates how Excel and VBA can be used effectively for advanced data analysis and visualization.
 
+## Dashboard 
+
+Here’s a preview of the Excel VBA healthcare dashboard:
+
+![Dashboard Screenshot](dashboard.png)
+
 ## Features
 
 - **Automated Pivot Table Generation**: VBA code automatically creates multiple pivot tables from the healthcare dataset, placing each pivot table on its own sheet.
@@ -20,7 +26,7 @@ The dataset for this project was collected from **Kaggle**, a platform offering 
 - **Source**: The healthcare dataset used in this project was collected from [Kaggle](https://www.kaggle.com/). Kaggle is a platform that provides datasets for machine learning and data analysis.
 - **Dataset Description**: The dataset contains information on patient demographics, hospital admissions, billing, test results, and more. Each record corresponds to a healthcare interaction and includes details such as the patient's age, gender, medical condition, hospital of admission, billing amount, and test outcomes.
 
-### Example Fields from the Dataset:
+### Fields from the Dataset:
 - **Name**: Patient name (anonymized).
 - **Age**: Patient's age in years.
 - **Gender**: Gender of the patient.
